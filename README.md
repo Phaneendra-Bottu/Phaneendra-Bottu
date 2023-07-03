@@ -1,13 +1,12 @@
 ### Hi there 👋
-<details>
-<summary>⚡️ More about my coding life</summary>
+
+⚡️ More about my coding life</summary>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra-Bottu&layout=compact&hide=css,html)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Phaneendra-Bottu&count_private=true&show_icons=true&theme=onedark)
 
-</details>
 
 ### <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
 
