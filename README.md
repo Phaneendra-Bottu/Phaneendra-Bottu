@@ -1,14 +1,13 @@
-### Hi there 👋
-
+### 👋 Hi there! I am Phaneendra
 ⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra-Bottu&layout=compact&)
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Phaneendra-Bottu&count_private=true&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra-Bottu&layout=compact&)
 
-### <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
+
+
 
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phaneendra-Bottu)](https://git.io/streak-stats)
