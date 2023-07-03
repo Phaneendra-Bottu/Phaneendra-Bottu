@@ -3,9 +3,9 @@
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapurna2003&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra-Bottu&layout=compact&hide=css,html)
 
-![Annapurna's github stats](https://github-readme-stats.vercel.app/api?username=annapurna2003&count_private=true&show_icons=true&theme=onedark)
+![Annapurna's github stats](https://github-readme-stats.vercel.app/api?username=Phaneendra-Bottu&count_private=true&show_icons=true&theme=onedark)
 
 </details>
 
